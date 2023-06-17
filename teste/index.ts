@@ -30,5 +30,7 @@ dependente.telefones = (cliente.telefones)
 
 cliente.dependentes.push(dependente)
 
+console.log("----------Clientes----------")
 console.log(cliente);
+console.log("----------Dependentes----------")
 console.log(dependente);
